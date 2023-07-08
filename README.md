@@ -8,5 +8,9 @@ This application uses:
 - StreamLit Framework for Application Development
 
   
-Refer to this blog for more details:
+# Blog
 https://medium.com/@vaibhavsahu/question-a-web-page-using-vertex-ai-palm-api-langchain-and-streamlit-8b56f0753cec
+
+
+# Demo
+https://www.youtube.com/watch?v=D68Cwp1PqQg
