@@ -4,7 +4,9 @@ This is a question-and-answering application. The user provides a link to a webp
 
 This application uses:
 - Google's Vertex AI PaLM API for text embedding and text answering
-- Langchain framework for creating embedding index and document retrieval
+- Langchain framework for creating the embedding index and document retrieval
 - StreamLit Framework for Application Development
 
   
+Refer to this blog for more details:
+https://medium.com/@vaibhavsahu/question-a-web-page-using-vertex-ai-palm-api-langchain-and-streamlit-8b56f0753cec
