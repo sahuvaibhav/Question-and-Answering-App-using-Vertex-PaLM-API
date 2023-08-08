@@ -14,3 +14,7 @@ https://medium.com/@vaibhavsahu/question-a-web-page-using-vertex-ai-palm-api-lan
 
 # Demo
 https://www.youtube.com/watch?v=D68Cwp1PqQg
+
+## Deploy on Google Cloud Run
+
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
