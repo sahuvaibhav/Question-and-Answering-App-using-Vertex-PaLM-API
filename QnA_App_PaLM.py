@@ -8,8 +8,9 @@ from langchain.vectorstores import DocArrayInMemorySearch
 import vertexai
 from langchain.llms import VertexAI
 from langchain.embeddings import VertexAIEmbeddings
+import os
 
-vertexai.init(project=PROJECT, location=LOCATION)
+vertexai.init(project=os.getenv('PROJECT'), location=os.getenv('LOCATION'))
 
 llm = VertexAI(
     model_name="text-bison@001",
